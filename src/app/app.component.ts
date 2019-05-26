@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'gba-root',
+  selector: 'nga-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })

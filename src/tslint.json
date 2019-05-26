@@ -4,13 +4,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "gba",
+      "nga",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "gba",
+      "nga",
       "kebab-case"
     ]
   }
